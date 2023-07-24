@@ -72,5 +72,7 @@ frontend\assets\jobs.JPG,
 frontend\assets\landingpage.JPG,
 frontend\assets\login.JPG,
 frontend\assets\profile.JPG,
-frontend\assets\signup.JPG
+frontend\assets\signup.JPG,
+frontend\assets\jobapplications.JPG,
+frontend\assets\jobs_HTmanager.JPG,
 
