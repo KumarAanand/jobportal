@@ -67,10 +67,10 @@ Details of the machine on which the webapp was tested:
 
 ##Application demo screenshots
 
-frontend\assets\addjobs.JPG
-frontend\assets\jobs.JPG
-frontend\assets\landingpage.JPG
-frontend\assets\login.JPG
-frontend\assets\profile.JPG
+frontend\assets\addjobs.JPG,
+frontend\assets\jobs.JPG,
+frontend\assets\landingpage.JPG,
+frontend\assets\login.JPG,
+frontend\assets\profile.JPG,
 frontend\assets\signup.JPG
 
